@@ -1,0 +1,21 @@
+.search-container {
+  display: flex;
+  justify-content: center;
+}
+
+.search-input {
+  padding: 10px 12px;
+  font-size: 12px;
+  border-radius: 50px;
+  color: rgb(25, 126, 214);
+  width: 300px;
+  border-width: 0;
+}
+
+.search-input::placeholder {
+  color: rgb(180, 156, 156);
+  font-family: "Indie-flower";
+}
+.search-input:focus {
+  outline: none;
+}
