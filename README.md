@@ -1,1 +1,1 @@
-Very cool project
+Outname: New name finding app
